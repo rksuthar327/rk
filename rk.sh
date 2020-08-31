@@ -8,3 +8,4 @@ for i in l:
        odd.append(i)
 print(even)
 print(odd)
+
